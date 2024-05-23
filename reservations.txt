@@ -1,0 +1,12 @@
+<res.id> <first name> <last name> <check in date> <check out date> <room #>
+1344	Antione	Hamill	15 10 2020	20 10 2020	1
+1235	Delores	Balser	12 11 2020	13 11 2020	1
+546	Shante	Burkhead	01 12 2020	09 12 2020	1
+6856	Tiffiny	Wimberley	25 11 2020	03 12 2020	21
+
+7524	Lamont	Harper	15 10 2020	19 10 2020	3
+46	Kera	Indelicato	02 11 2020	09 11 2020	3
+1232	Laureen	Cairo	31 10 2020	02 11 2020	2
+7567	Lavada	Stegner	25 12 2020	05 01 2021	3
+8343	Brandi	Ponce	31 10 2020	02 11 2020	1
+5857	Miquel	Husain	15 10 2020	20 10 2020	2

@@ -1,0 +1,5 @@
+Player	Score
+Aynur	900
+Ayse	-300
+Sultan	300
+Timur	990

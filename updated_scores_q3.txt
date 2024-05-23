@@ -1,0 +1,9 @@
+Player	Score
+Aynur	900
+Bekir	410
+Ayse	-300
+Sultan	-555
+Erman	1200
+Ekim	2
+Timur	990
+Sule	410
